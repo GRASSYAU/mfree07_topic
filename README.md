@@ -12,7 +12,7 @@
     - 訂單系統 (CRUD)
     - 行銷系統 (CRUD)
 ### 如何使用? ###
-- 網址: http://zscss.com/idu/
+- 網址: http://zscss.com/otis/
 - 帳號密碼登入使用
 - 帳號：otis
 - 密碼：otis
